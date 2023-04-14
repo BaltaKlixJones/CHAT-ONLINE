@@ -1,0 +1,4 @@
+# IGNORAR ARCHIVOS
+
+.env
+.DS_Store
