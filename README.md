@@ -22,7 +22,11 @@ npm install
 
 ## Uso
 
-Para iniciar el servidor de desarrollo, ejecuta el siguiente comando en el backend y el front-end:
+### Para iniciar el servidor del backend, ejecuta el siguiente comando en la carpeta "backend":
+
+npm start
+
+### Para iniciar el servidor para el frontend, ejecuta el siguiente comando en la carpeta "front-end":
 
 npm run dev
 
