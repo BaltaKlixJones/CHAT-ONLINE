@@ -2,6 +2,13 @@
 ## Proyecto con Vite
 Este es un proyecto de ejemplo que utiliza Vite como herramienta de construcción y desarrollo.
 
+## Video
+
+Para ver el video de su funcionamiento puedes hacer click en el siguiente link : https://youtu.be/zmqvqQR3mU4
+
+## Para usar la app 
+Sigue los pasos ...
+
 ## Requisitos
 Para ejecutar este proyecto, debes tener instalado Node.js y npm en tu máquina.
 
